@@ -1,4 +1,4 @@
-# MT_DEnet
+# Human Motion Transfer with 3D Constraints and Detail Enhancement
 ![teaser](./teaser.png)
 
 ## Abstract
